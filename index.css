@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #7a1818;
+}
+
+h1 {
+    margin: auto;
+}
+
+div {
+    border-radius: 10px;
+    background-color: #991717;
+    color: #ffffff;
+    font-variant: small-caps;
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: italic;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-variant: normal;
+    padding-bottom: 5%;
+}
+
+.box-class {
+    width: 50%;
+    margin: 10% 20%;
+    padding-right: 5%;
+    padding-left: 5%;
+    border: 0%;
+}
